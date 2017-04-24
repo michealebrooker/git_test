@@ -1,3 +1,21 @@
 Mike's Notes about this html work
 
 It's just a place to write memos about this site
+
+So far, I've got my local git working, and am adding changes to files and new files, using locall
+
+git add -A 
+
+-A adds all files to the staging area
+
+then
+
+git commit -t "comment goes here
+
+then 
+
+git pull origin master - get the latest edits from the remote repo
+
+and 
+
+git push origin master - send the latest local edits up to the remote repo
